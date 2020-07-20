@@ -4,7 +4,7 @@
 
 In this project we navigate through a virtual highway with other traffic, decissions for staying in the lane, change it, accelerate or deaccelerate are made in order to have a smooth trip. This project involves the Term 3 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2).
 
-<img src="https://github.com/ajimenezjulio/P6_Kidnapped-Vehicle/blob/master/docs/kidnapped.gif">
+<img src="https://github.com/ajimenezjulio/P7_Path_Planning/blob/master/docs/path_planning.gif">
 </p>
 
 ## Goal
